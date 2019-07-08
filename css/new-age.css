@@ -387,6 +387,10 @@ section.team .teammember img {
   border-radius: 50%;
 }
 
+section.projects .project-item {
+  padding-bottom: 50px;
+}
+
 section.contact {
   text-align: center;
 }
